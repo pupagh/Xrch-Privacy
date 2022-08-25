@@ -41,7 +41,7 @@
         "is_default": true,
         "keyword": "xrch.rf.gd",
         "name": "Xrch",
-        "search_url": "https://w.xrch.rf.gd/s?q={searchTerms}"
+        "search_url": "https://w.xrch.rf.gd/s?q={searchTerms}&p=0"
     }
   }
 }
